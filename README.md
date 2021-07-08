@@ -3,18 +3,19 @@
 ## Directory structure
 
 This is the main directory structure you end up with following the instructions of this page:
+```plaintext
 |-- home
-    |-- documentation
-    |-- model
-    |-- controller
-    |-- CRUD
-    |-- router
-    |-- sql
-        |-- table.sql
-    |-- connection.js
-    |-- handler.js
-    |-- serverless.ylm
-    |-- Readme.md
+|    |-- documentation
+|    |-- model
+|    |-- controller
+|    |-- CRUD
+|    |-- router
+|    |-- sql
+|        |-- table.sql
+|    |-- connection.js
+|    |-- handler.js
+|    |-- serverless.ylm
+|    |-- Readme.md
 
 ## Overview
 
